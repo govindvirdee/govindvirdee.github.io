@@ -7,7 +7,7 @@ description:
 image: "https://iili.io/JUGxkXf.png"
 optimized_image: "https://iili.io/JUGxkXf.png" 
 category: ml
-tags: computer vision 
+tags: computer-vision medical-imaging keras tensorflow loss-functions tversky 
 author: Govind Virdee
 paginate: false
 ---
