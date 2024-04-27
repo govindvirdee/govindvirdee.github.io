@@ -21,12 +21,15 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
+    font-family: 'Courier New'; /* Example font */
+    font-size: 28px; /* Example size */
+    font-weight: 300;                 /* Lighter weight makes the font less bold */
 
     a {
       display: block;
       color: $accentDark;
       text-decoration: none;
-      font-size: rem(32px);
+      font-size: rem(28px);
       position: relative;
       outline: 0;
     }
