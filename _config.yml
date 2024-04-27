@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Govind Virdee
+title: Data Science, AI and Machine Learning
+description: -.
 tags:
   - blog
   - template
@@ -29,12 +28,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: govindvirdee
+# facebook_username: facebook_username
+twitter_username: govvirdee
+# instagram_username: instagram_username
+linkedin_username: govind-virdee-20262486
+# medium_username: medium_username
 
 
 # Posts Settings
@@ -110,4 +109,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2

@@ -1,13 +1,11 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: govindvirdee
+title: govindvirdee.github.io | Data Science, AI and Machine Learning
+description: Cool data science, AI and machine learning things :) 
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - machine learning
+  - AI
+  - data science
 show_hero: true
 menu:
   - title: Home

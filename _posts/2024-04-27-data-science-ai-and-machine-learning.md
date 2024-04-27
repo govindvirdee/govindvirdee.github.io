@@ -1,5 +1,5 @@
 ---
-date: 2024-04-27 12:00:00
+date: 2024-04-27 10:05:46
 layout: post
 title: Data Science, AI and Machine Learning 
 subtitle: 'Govindraj Singh Virdee'
@@ -21,4 +21,3 @@ This site serves as somewhat of a portfolio, as well as a place for me to house 
 > " "Artificial intelligence is no match for natural stupidity" - Michael Scott " - Govind Virdee 
 
 I hope that you enjoy - and feel free to get in touch. Any prospective employers, take note that all mistakes are intentional and serve as exercises for the reader :) . 
-
