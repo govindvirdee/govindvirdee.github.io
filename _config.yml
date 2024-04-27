@@ -1,13 +1,12 @@
 # Site Settings
 name: Govind Virdee
 title: Data Science, AI and Machine Learning
-description: -.
+description: Cool data science, AI and machine learning things :) 
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - machine learning
+  - AI
+  - data science
 show_hero: true
 menu:
   - title: Home
@@ -16,9 +15,9 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  # - title: Feed
+  #   url: /feed.xml
+email: govindrajsinghv@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -40,7 +39,7 @@ linkedin_username: govind-virdee-20262486
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
