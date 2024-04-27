@@ -3,7 +3,7 @@ date: 2024-04-27 11:50:46
 layout: post
 title: "Understanding the Tversky loss function"
 subtitle: "Getting to grips with improving segmentation in medical imaging"
-description: 
+description: "A dive into the Tversky loss function to deal with imbalanced classes in imaging datasets"
 image: "https://iili.io/JUGxkXf.png"
 optimized_image: "https://iili.io/JUGxkXf.png" 
 category: ml
