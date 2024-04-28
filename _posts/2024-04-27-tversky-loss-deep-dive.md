@@ -12,7 +12,7 @@ author: Govind Virdee
 paginate: false
 ---
 
-Lately, I've been working on an image segmentation project for identifying brain tumours in MRI scans. For context, brain tumours are bad. Fortunately, they're not incredibly prevalent. While this is good for humanities' sake, it does mean that datasets containing MRI images can, at times, be rather imbalanced - we have fewer examples of MRI scans with brain tumours than scans without. In this context, we'd also very much like to reduce the number of false negatives. 
+Lately, I've been working on an image segmentation project for identifying brain tumours in MRI scans. For context, brain tumours are bad. Fortunately, they're not incredibly prevalent. While this is good for humanities' sake, it does mean that datasets containing MRI images can, at times, be rather imbalanced - we have fewer examples of MRI scans with brain tumours than scans without. If our goal is to use ML to identify tumours, we'd also very much like to reduce the number of false negatives. 
 
 When we look in our loss function toolbox, we tend to find that many traditional loss functions such as mean-squared-error or cross-entropy can fall short when it comes to imbalanced class distributions. This is where a custom loss function might be more useful! 
 
